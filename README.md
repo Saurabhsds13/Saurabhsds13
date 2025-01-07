@@ -18,6 +18,7 @@ I'm a passionate **Full Stack Developer** with expertise in building efficient a
 - **Frontend**: React.js
 - **Backend**: Java (Spring, Spring Boot)
 - **Database**: MySQL
+- **Tools**: Selenium, Jmeter, PlayWrite, Postman, Swagger
 - **Others**: REST APIs, Git, Agile Development Practices
 
 ---
