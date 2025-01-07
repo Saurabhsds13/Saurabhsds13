@@ -37,8 +37,8 @@ I'm a passionate **Full Stack Developer** with expertise in building efficient a
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [](#)
-- **GitHub**: You're already here! 😊
+- **LinkedIn**: https://www.linkedin.com/in/saurabhsds13
+- **HackerRank**: (https://www.hackerrank.com/profile/saurabhsds13)
 - **Email**: saurabhsds13@gmail.com
 
 ---
