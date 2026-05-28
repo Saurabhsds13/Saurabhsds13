@@ -12,7 +12,7 @@ I build systems that hold up when things get real — high-throughput APIs, even
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Java (8 & 21 — migrated production apps from 8 → 21 with zero-downtime rollout), JavaScript
+- **Languages**: Java (8 & 21 — migrated production apps from 8 → 21 with zero-downtime rollout)
 - **Frontend**: React.js
 - **Backend**: Java (Spring, Spring Boot), REST APIs
 - **Databases**: MongoDB 8.x (major version migration), MySQL, Redis (caching, session management, rate limiting)
@@ -52,6 +52,7 @@ I build systems that hold up when things get real — high-throughput APIs, even
 
 ## 📫 Let's Connect!
 
+- **LinkedIn**: https://www.linkedin.com/in/saurabhsds13
 - **HackerRank**: https://www.hackerrank.com/profile/saurabhsds13
 - **Email**: saurabhsds13@gmail.com
 
