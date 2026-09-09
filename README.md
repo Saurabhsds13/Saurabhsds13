@@ -123,10 +123,18 @@ Do not publish estimates that cannot be supported in an interview.
 
 <div align="center">
 
-[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabhsds13&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/Saurabhsds13)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsds13&layout=compact&hide_border=true&theme=transparent&langs_count=8)](https://github.com/Saurabhsds13?tab=repositories)
+<a href="https://github.com/Saurabhsds13">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabhsds13&theme=github" alt="Saurabh's GitHub profile summary" />
+</a>
 
-<sub>Language statistics reflect public GitHub repositories and do not represent overall professional experience.</sub>
+<a href="https://github.com/Saurabhsds13?tab=repositories">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saurabhsds13&theme=github" alt="Saurabh's repositories by language" />
+</a>
+<a href="https://github.com/Saurabhsds13">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saurabhsds13&theme=github" alt="Saurabh's GitHub statistics" />
+</a>
+
+<sub>Statistics reflect public GitHub activity and do not represent overall professional experience.</sub>
 
 </div>
 
