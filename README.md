@@ -125,7 +125,7 @@ Do not publish estimates that cannot be supported in an interview.
 <tr>
 <td align="center">
 
-<h2>📊 GitHub Overview</h2>
+<h2 align="center">📊 GitHub Overview</h2>
 
 <a href="https://github.com/Saurabhsds13">
   <img width="84%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabhsds13&theme=github" alt="Saurabh's GitHub profile summary" />
