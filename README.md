@@ -1,61 +1,147 @@
-# Hi there! 👋 I'm Saurabh Sonawane
+<div align="center">
 
-🚀 **Software Engineer** | 💻 **Backend-Heavy Full Stack Developer** | ⚙️ **System Thinker**
+# Hi, I'm Saurabh Sonawane 👋
 
----
+### Enterprise Java Backend Developer | Scalable Systems | Business Workflow Automation
 
-## About Me
+I engineer reliable backend platforms that modernize enterprise applications, scale with demand,
+and turn repetitive business processes into secure, observable, automated workflows.
 
-I build systems that hold up when things get real — high-throughput APIs, event-driven architectures, and services that don't wake anyone up at 3 AM. I care about clean code, smart automation, and engineering that scales without drama. Outside work, I break things in personal projects just to understand how they tick.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhsds13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saurabhsds13)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhsds13@gmail.com)
 
----
-
-## 🔧 Technologies & Tools
-
-- **Languages**: Java (8 & 21 — migrated production apps from 8 → 21 with zero-downtime rollout)
-- **Frontend**: React.js
-- **Backend**: Java (Spring, Spring Boot), REST APIs
-- **Databases**: MongoDB 8.x (major version migration), MySQL, Redis (caching, session management, rate limiting)
-- **Messaging**: Apache Kafka (event streaming, partition strategies, exactly-once semantics), Message Queues (async processing)
-- **AI**: Amazon Q AI Agent (production prompt engineering for consistent, reliable outputs)
-- **DevOps**: Jenkins (pipeline-as-code, multi-env deployments, rollback strategies)
-- **Observability**: ELK Stack (centralized structured logging with alerting), Health Check endpoints
-- **Security**: Enterprise security layers (auth, authorization, input validation, API security), Log Masking (PII/tokens never in plain text)
-- **Testing**: JUnit (unit + integration), JMeter (API load testing — bottlenecks, connection pool limits, memory leaks)
-- **Documentation**: Swagger/OpenAPI, JIRA (sprint planning, enterprise-scale delivery)
-- **Practices**: SOLID, Clean Architecture, Design Patterns, Automation of manual workflows
+</div>
 
 ---
 
-## 🌟 How I Work
+## 👨‍💻 About Me
 
-- 📚 If someone is doing it by hand more than twice — I automate it.
-- 🏗️ Design principles aren't buzzwords — they're how I structure enterprise applications.
-- 🧪 Tests are part of "done", not an afterthought.
-- 🔒 Security is built in from day one, not bolted on later.
-- 📖 Code should be readable by another engineer six months later without a walkthrough.
+I'm a backend-focused software engineer specializing in **enterprise Java**, **Spring Boot**, and **distributed systems**. I build high-throughput APIs, event-driven services, and automation solutions designed for maintainability, resilience, and secure operation in production.
 
----
+My work spans application modernization, database upgrades, asynchronous processing, CI/CD automation, observability, performance engineering, and production-grade AI-assisted workflows. I care about systems that are easy to operate—not just easy to demo—and services that do not wake anyone up at 3 AM.
 
-## 📈 What I've Actually Done
-
-- Migrated enterprise Java applications from 1.8 to 21 — module system, deprecated APIs, library compatibility, full regression coverage.
-- Handled MongoDB 8.x major version migration — schema validation changes, aggregation pipeline updates, index strategy overhaul.
-- Built CI/CD pipelines in Jenkins with automated builds, tests, deployments, and rollback strategies.
-- Implemented centralized logging with ELK for distributed microservices.
-- Applied enterprise security layers and log masking in production systems handling real user data.
-- Built AI agents with Amazon Q using optimized prompt practices for production workflows.
-- Load tested APIs with JMeter to find breaking points before users do.
-- Automated repetitive manual processes across teams.
+- 🏗️ Build scalable, maintainable services using clean architecture and proven design patterns
+- ⚡ Design event-driven and asynchronous flows with Kafka and message queues
+- 🔄 Automate manual business processes and software delivery workflows
+- 🔐 Treat security, validation, and sensitive-data protection as design requirements
+- 📊 Use logging, health checks, tests, and load analysis to improve production reliability
 
 ---
 
-## 📫 Let's Connect!
+## 🎯 Engineering Focus
 
-- **LinkedIn**: https://www.linkedin.com/in/saurabhsds13
-- **HackerRank**: https://www.hackerrank.com/profile/saurabhsds13
-- **Email**: saurabhsds13@gmail.com
+| Enterprise Backend Engineering | Scalability & Reliability | Business Process Automation |
+|:---|:---|:---|
+| Java and Spring Boot services, REST APIs, application modernization, and clean architecture | Distributed services, event streaming, caching, load testing, observability, and resilient delivery | Automated business workflows, CI/CD pipelines, asynchronous processing, and AI-assisted operations |
 
 ---
 
-⭐️ _Want to talk architecture, system design, or geek out about Java migrations? Reach out._
+## 🧰 Technology Stack
+
+### Backend & Architecture
+
+![Java](https://img.shields.io/badge/Java_8–21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+
+`Microservices` · `Clean Architecture` · `SOLID` · `Design Patterns` · `API Security`
+
+### Data, Caching & Messaging
+
+![MongoDB](https://img.shields.io/badge/MongoDB_8.x-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+`Event Streaming` · `Partition Strategies` · `Exactly-Once Semantics` · `Caching` · `Session Management` · `Rate Limiting`
+
+### DevOps, Quality & Observability
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+`Pipeline as Code` · `Multi-Environment Delivery` · `Rollback Strategies` · `Structured Logging` · `Health Checks` · `Unit & Integration Testing`
+
+### AI & Frontend
+
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+`AI Agents` · `Production Prompt Engineering` · `Backend-Heavy Full-Stack Delivery`
+
+---
+
+## 📈 Selected Engineering Impact
+
+<table>
+<tr>
+<td align="center"><strong>Java 8 → 21</strong><br/>Enterprise application modernization</td>
+<td align="center"><strong>Zero Downtime</strong><br/>Production migration rollout</td>
+<td align="center"><strong>MongoDB 8.x</strong><br/>Major database version migration</td>
+<td align="center"><strong>Automated Delivery</strong><br/>Build, test, deploy, and rollback</td>
+</tr>
+</table>
+
+- **Modernized enterprise Java applications from Java 8 to Java 21**, addressing deprecated APIs, module-system considerations, library compatibility, and regression coverage while maintaining a zero-downtime rollout.
+- **Delivered a MongoDB 8.x migration**, adapting schema validation and aggregation pipelines while revisiting index strategy for compatibility and performance.
+- **Engineered Jenkins CI/CD pipelines** that automate builds, tests, multi-environment deployments, and rollback procedures for safer, repeatable releases.
+- **Improved distributed-service operability** through centralized structured logging, ELK-based analysis and alerting, and health-check endpoints.
+- **Protected production data** with layered authentication and authorization, input validation, API security controls, and masking that keeps PII and tokens out of plain-text logs.
+- **Validated API capacity with JMeter**, exposing bottlenecks, connection-pool constraints, and memory issues before they reached users.
+- **Built Kafka-based processing flows** using deliberate partitioning and delivery-semantics strategies for dependable asynchronous workloads.
+- **Automated repetitive business and team workflows**, reducing manual handoffs and creating more consistent, auditable execution paths.
+- **Developed Amazon Q AI agents** with production-oriented prompt practices focused on consistent and reliable workflow outputs.
+
+<!--
+Replace or supplement the impact statements above with verified business metrics when available, for example:
+- Reduced processing time from [X] to [Y]
+- Increased sustained throughput to [N] requests/events per second
+- Reduced deployment time or failure rate by [N%]
+- Saved [N] engineering or operations hours per month through automation
+Do not publish estimates that cannot be supported in an interview.
+-->
+
+---
+
+## 🧭 How I Engineer
+
+- **Automate deliberately:** if a repeatable process is being performed manually, I look for a reliable way to automate it.
+- **Design for change:** clear boundaries, SOLID principles, and readable code keep enterprise systems adaptable.
+- **Build quality in:** unit, integration, regression, and load testing are part of delivery—not post-release activities.
+- **Secure by default:** authorization, validation, API protection, and safe logging begin at design time.
+- **Operate what I build:** observability, health checks, failure handling, and rollback paths are core features.
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabhsds13&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/Saurabhsds13)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsds13&layout=compact&hide_border=true&theme=transparent&langs_count=8)](https://github.com/Saurabhsds13?tab=repositories)
+
+<sub>Language statistics reflect public GitHub repositories and do not represent overall professional experience.</sub>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **enterprise Java**, **backend architecture**, **distributed systems**, **application modernization**, and **business workflow automation**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabhsds13)
+- 🧩 [HackerRank](https://www.hackerrank.com/profile/saurabhsds13)
+- 📧 [saurabhsds13@gmail.com](mailto:saurabhsds13@gmail.com)
+
+<div align="center">
+
+**Build for scale. Automate with purpose. Operate with confidence.**
+
+</div>
