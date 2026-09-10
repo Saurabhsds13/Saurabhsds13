@@ -77,7 +77,51 @@ My work spans application modernization, database upgrades, asynchronous process
 
 ---
 
-## 📈 Selected Engineering Impact
+## &#128640; Featured Projects
+
+### Quick-Commerce Order & Inventory Platform
+
+A production-style commerce ecosystem spanning a customer storefront and an enterprise order-management platform, connected through bidirectional Kafka event flows.
+
+```text
+QuickBasket Storefront
+        │  ORDER_PLACED · oms.orders.inbound
+        ▼
+    Apache Kafka
+        │
+        ▼
+Enterprise OMS ── Order · Inventory · Payment · Shipping · Analytics
+        │  ORDER_STATUS · oms.orders.status
+        ▼
+    Apache Kafka
+        │
+        ▼
+QuickBasket ── Audit History · User Notification · Live SSE Update
+```
+
+- **[QuickBasket E-Commerce System](https://github.com/Saurabhsds13/QuickBasket-Ecommerce-System)** — Java 17, Spring Boot 3.2, React 19, MySQL, Redis, JWT security, Razorpay payments, Kafka, and server-sent events. Implements catalog, cart, checkout, orders, returns, notifications, and administration across a seeded catalog of 170+ products and 20 categories.
+- **[Enterprise Order Management System](https://github.com/Saurabhsds13/IBM-OMS-SYSTEM)** — Java 17 and Spring Boot 3.5 modular monolith covering order lifecycle, inventory reservation, payment, shipping, analytics, JWT/RBAC, Flyway migrations, and a Kafka-backed transactional outbox.
+- Publishes committed orders to `oms.orders.inbound` and returns lifecycle updates through `oms.orders.status`, with messages keyed by order number to preserve per-order partition ordering.
+- Designs for **at-least-once delivery** through idempotent order intake, producer idempotence, auditable status history, and explicit failure-handling trade-offs.
+
+[View Storefront Repository](https://github.com/Saurabhsds13/QuickBasket-Ecommerce-System) · [View OMS Repository](https://github.com/Saurabhsds13/IBM-OMS-SYSTEM) · [Kafka Integration Contract](https://github.com/Saurabhsds13/QuickBasket-Ecommerce-System/blob/main/docs/oms-integration.md)
+
+### AI Customer Support Assistant
+
+A human-in-the-loop support workflow that combines enterprise Java engineering with grounded generative AI.
+
+- **[AI Customer Support Assistant](https://github.com/Saurabhsds13/ai-customer-support-assistant)** — Java 21, Spring Boot 3.3, Spring AI, PostgreSQL, Docker Compose, Spring Security, and JWT/RBAC.
+- Implements ticket analysis, priority classification, provider-agnostic LLM integration, controlled tool calling, and agent approval or rejection of generated responses.
+- Builds a RAG pipeline with document chunking, vector search, grounding, source citations, and a guard that avoids calling the model when relevant context is unavailable.
+- Adds production-style controls through AI audit logs, Prometheus metrics, health indicators, retry and circuit-breaker policies, structured logging, and unit/integration testing with JUnit, Mockito, and Testcontainers.
+
+[View Repository](https://github.com/Saurabhsds13/ai-customer-support-assistant)
+
+<sub>These are independent portfolio systems designed to demonstrate architecture and engineering practices; they are not representations of vendor-owned production platforms.</sub>
+
+---
+
+## &#128200; Selected Engineering Impact
 
 <table>
 <tr>
